@@ -1,1 +1,1 @@
-A C# (C-sharp) windows application bult inside visual studio, that can insert, update, delete and search for employee data based on there employee id.
+A C# windows application built in visual studio, that can perfom CRUD operation and search for specific employees data using there employee id.
